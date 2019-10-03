@@ -1,5 +1,5 @@
 package sample;
-
+// A sample console application showing how a IMS portal functions
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
